@@ -3,7 +3,7 @@
 Wellcome to my GIT
 
 Te interesa la música o sonidos relajantes para estudiar o trabajar? 
-Visita - [LoFi&CO](https://rrubenn.github.io/LM_T5_Rub-nR/index.html)
+Visita mi [LoFi&CO](https://rrubenn.github.io/LM_T5_Rub-nR/index.html)
 
 <!--
 **RRubenn/RRubenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
