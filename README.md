@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Hola hola! Empezando a usar estas piezas de GitHub. Estudiante de GS DAW, aunque más enfocado a Desarrollo Multiplataforma. Wellcome to my GIT
 
 <!--
 **RRubenn/RRubenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
